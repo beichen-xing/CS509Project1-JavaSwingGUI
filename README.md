@@ -1,7 +1,7 @@
 # CS509Project1-JavaSwingGUI
 ## About GiftCard(Birthday)
 + This is a project of Sofware Design course in WPI.
-+ Using Java Swing and IO to Build basic GUI and implement Objected-oriented Paradigm(Entity, Controller and boundry).
++ Use Java Swing and IO to Build basic GUI and implement Objected-oriented Paradigm(Entity, Controller and boundry).
 
 + A little crude GUI as follows :)
 
